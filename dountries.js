@@ -1,7 +1,8 @@
 /**
   * Dountries
-  * License:
-  *
+  * License: MIT
+  * (c) 2022 - dlvdlo
+  * https://github.com/dlvdls18/Dountries
   *
   */
 class Dountries {
