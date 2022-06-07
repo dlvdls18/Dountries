@@ -1,7 +1,7 @@
 # Dountries
 JSON and JavaScript Array of All Countries
 
-![Countries](/Screenshot_2022-06-07-12-10-40-08.jpg)
+![Countries](/img.jpg)
 
 # Installation
 
