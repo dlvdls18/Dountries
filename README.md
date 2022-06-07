@@ -1,8 +1,6 @@
 # Dountries
 JSON and JavaScript Array of All Countries
 
-![Countries](/img.jpg)
-
 # Installation
 
 ```html
