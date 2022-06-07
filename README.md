@@ -11,7 +11,19 @@ or download the [JSON](https://cdn.jsdelivr.net/gh/dlvdls18/Dountries@main/dount
 
 # Usage
 
+`Dountries.js`
+
 ```js
 // return new array of countries
 new Dountries();
+```
+
+`Dountries.json`
+
+```js
+async function Dountries() {
+  var f = await fetch("path/to/dountries.json");
+  var t = await f.text();
+  return JSON.parse(t);
+}
 ```
