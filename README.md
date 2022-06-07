@@ -14,7 +14,7 @@ or download the [JSON](https://cdn.jsdelivr.net/gh/dlvdls18/Dountries@main/dount
 `Dountries.js`
 
 ```js
-// return new array of countries
+// returns new array of countries
 new Dountries();
 ```
 
@@ -26,4 +26,12 @@ async function Dountries() {
   var t = await f.text();
   return JSON.parse(t);
 }
+```
+
+```js
+(async function() {
+  var c = await Dountries();
+  // returns new array of countries
+  console.log(c);
+})();
 ```
