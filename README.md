@@ -21,6 +21,8 @@ or download the [JSON](https://cdn.jsdelivr.net/gh/dlvdls18/Dountries@main/src/d
 new Dountries();
 ```
 
+***
+
 `Dountries.json`
 
 ```js
