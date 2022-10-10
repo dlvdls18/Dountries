@@ -1,6 +1,6 @@
 /**
   * Dountries
-  * License: MI
+  * License: MIT
   * (c) 2022 - dlvdls18
   * https://github.com/dlvdls18/Dountries
   *
